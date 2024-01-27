@@ -1,0 +1,8 @@
+{
+    "TelegramBotToken": "6656614266:AAEG6KVzxnlgXLIobv68PVoK9bCiDKjaN9Y",
+    "dbHost": "localhost",
+    "dbPort":  "5432",
+    "dbUser":  "postgres",
+    "dbPassword": "32",
+    "dbName": "lab24b"
+}
